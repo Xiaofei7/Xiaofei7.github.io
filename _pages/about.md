@@ -2,13 +2,12 @@
 layout: single
 author_profile: true
 permalink: /about/
-title: "About Ray"
+title: "About David"
 ---
 
 ### A Little about Myself
 
-My name is Rui (In Chinese Rui is pronounced as Ray) Li. I am a senior student at UC Davis pursuing degrees in Applied Mathematics and Statistics. 
+My name is David Li. I am a Graduate student at UC Davis Statistics Department and I am expected to graduate in June 2018. 
 
-When admitted to UC Davis, I was an Economics major. That said, Economics was not on my top list, so I changed to Applied Mathematics. After that I began to wonder: how about doubling another major? How about Statistics? The original purpose of choosing Statistics as my second major is simple: it is a trending major in the job market and can help me to find a job. However, with my increasing understanding towards Statistics, I find it a really interesting subject. In particular, I think Data Science is an amazing branch within Statistics. Seemingly unrelated events can be connected by the underlying data, and meaningful conclusions are drawn through data visualization and statistical analysis. This is what Data Science, or Statistics attracts me.
-
+My bachelor degree is Biomedical Engineering. When I was in junior year, I participated a Interdisciplinary Contest in Modeling (ICM) and I got quite interested in data analysis. In order to dive into data science field, I exchanged for one year at UC Davis studying statistics. And finally I got admitted and continued learning statistics at UC Davis. 
 ---
