@@ -1,4 +1,3 @@
-### A Little about Myself
 
 My name is David Huang. I am a graduate student at UC Davis statistics department.
 
