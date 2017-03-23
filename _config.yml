@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Welcome to DataHub"
+title                    : "Welcome to Data Science World!"
 title_separator          : "-"
 name                     : "David Huang"
 description              : "The best place to know more about me!"
