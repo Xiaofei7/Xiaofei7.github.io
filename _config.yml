@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "Welcome to Data Science World!"
 title_separator          : "-"
-name                     : "David Huang"
+name                     : "Xiaofei Li"
 description              : "The best place to know more about me!"
-url                      : "https://David-Data-Scientist.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://github.com/aoran1102/141B_group_project" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "David-Data-Scientist/David-Data-Scientist.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Xiaofei7.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Huang"
-  avatar           : "/assets/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Geek looking for data science intern"
+  name             : "Xiaofei Li"
+  avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data science and economics"
   location         : "Davis, CA"
-  email            : "dhuhuang@ucdavis.edu"
+  email            : "lxfli@ucdavis.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "David-Data-Scientist"
+  github           : "Xiaofei7"
   google_plus      :
   keybase          :
   instagram        :
