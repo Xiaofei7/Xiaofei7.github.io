@@ -5,4 +5,4 @@ permalink: /project/
 title: "Projects"
 ---
 
-- [STA141B Project: Yelp Data Analysis](https://david-data-scientist.github.io/Project/)
+- [STA141B Project: Qualification for Data Analyst in California](https://aoran1102.github.io/141B_group_project/)
